@@ -33,4 +33,4 @@ V1 intentionally excludes platform internals, payment data, private source URLs,
 
 ## Status
 
-Draft. The schema and example package are intended for review before this repository is published publicly.
+Early V1 draft. The schema and example package are public for review and expected to evolve as more platform extractors are tested.
